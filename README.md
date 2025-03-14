@@ -1,4 +1,4 @@
-![{3626B910-46D6-4C79-9F82-FC23C9BEB4FC}](https://github.com/user-attachments/assets/3492f329-8df2-4909-bf9c-7f8402227ab9)# Module 5
+# Module 5
 
 - SS all-student JMeter
   ![Screenshot 2025-03-14 195652](https://github.com/user-attachments/assets/a38c6631-d3da-448c-a86f-bf3b8d7f944c)
